@@ -1,6 +1,6 @@
 {
   "name": "add-graphql-subscriptions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper to add subscriptions, without the unhelpful deprecation warning given by the version in subscriptions-transport-ws",
   "main": "index.js",
   "repository": {
